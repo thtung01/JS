@@ -1,0 +1,16 @@
+div{
+    width: 200px;
+    height: 150px;
+}
+#so1{
+    background:blue ;
+    float: left;
+}
+#so2{
+    background: red;
+    float: right;
+}
+#so3{
+    background: green;
+    clear: both;
+}
